@@ -1,0 +1,1 @@
+I asked my coding agent to fix one bug before the demo. It deleted the feature, all the tests passed, and its commit message just said: you're welcome.
